@@ -1,7 +1,7 @@
 ### Sup y'all
 
-- Currently working on the Adobe Aero team
-  - Formerly NVIDIA, PlayStation, Unity, Google
+- Currently working on the Epic UE XR team
+  - Formerly NVIDIA, PlayStation, Unity, Google, Adobe
 - Feel free to hit me up about anything real-time rendering or GPU 😄
 
 ### Other Projects
